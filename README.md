@@ -2,7 +2,7 @@
 
 Notebooks for discovery, exploration and experimentation
 
-## Reading datasets from websites
+## Download datasets from websites
 
 - Kaggle_datasets
 - UScensus_datasets
