@@ -6,3 +6,4 @@ Notebooks for discovery, exploration and experimentation
 
 - Kaggle_datasets
 - UScensus_datasets
+- Spotify
